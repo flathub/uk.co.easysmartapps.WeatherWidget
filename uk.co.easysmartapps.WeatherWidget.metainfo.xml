@@ -65,15 +65,15 @@
   <screenshots>
     <screenshot type="default">
       <caption>Enhanced view showing detailed weather for multiple cities</caption>
-      <image>https://raw.githubusercontent.com/gcclinux/WeatherWidget/main/images/weather-linux-enhanced.png</image>
+      <image>https://raw.githubusercontent.com/gcclinux/WeatherWidget/main/images/store/linux/weatherwidget-background-fog.png</image>
     </screenshot>
     <screenshot>
       <caption>Simple view with a compact layout</caption>
-      <image>https://raw.githubusercontent.com/gcclinux/WeatherWidget/main/images/weather-linux-simple.png</image>
+      <image>https://raw.githubusercontent.com/gcclinux/WeatherWidget/main/images/store/linux/weatherwidget-classic-view.png</image>
     </screenshot>
     <screenshot>
-      <caption>Language settings with 12 supported languages</caption>
-      <image>https://raw.githubusercontent.com/gcclinux/WeatherWidget/main/images/weather-languages.png</image>
+      <caption>Enhanced view with transparant background</caption>
+      <image>https://raw.githubusercontent.com/gcclinux/WeatherWidget/main/images/store/linux/weatherwidget-transparant.png</image>
     </screenshot>
   </screenshots>
 
@@ -86,6 +86,11 @@
   <content_rating type="oars-1.1" />
 
   <releases>
+      <release version="2.0.8" date="2026-09-30">
+      <description>
+        <p>Code cleanup, bug fixesand packaging refinements.</p>
+      </description>
+    </release>
     <release version="2.0.7" date="2026-09-24">
       <description>
         <p>Linux compatibility fixes, code cleanup, and packaging refinements.</p>
