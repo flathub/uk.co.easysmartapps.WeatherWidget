@@ -41,7 +41,7 @@
       <li>Dew point, pressure, UV index, pollution and Air Quality Index, Feels Like</li>
       <li>Adjustable background transparency (25% / 50% / 75% / 100%)</li>
       <li>Snap to any screen corner or drag to a custom position</li>
-      <li>Multi-monitor support & 12 languages supported</li>
+      <li>Multi-monitor support &amp; 12 languages supported</li>
       <li>Celsius or Fahrenheit, plus km/h, mph or knots for wind</li>
       <li>Air Quality News, Definition and Profiles ticker</li>
       <li>AQI: graded context: Good, Fair, Moderate, and beyond, PM2.5, PM10, NO₂, Ozone, CO</li>
@@ -90,10 +90,10 @@
       <release version="2.2.0" date="2026-11-04">
       <description>
           <p>Linux Snap package autostart permanant fix</p>
-          <p>Windows Software rendering running without GPU (AMD64 & AMR64)</p>
+          <p>Windows Software rendering running without GPU (AMD64 &amp; AMR64)</p>
           <p>Everyday Outdoors: General atmospheric context for daily commutes and stepping out.</p>
-          <p>Runner & Cyclist: Real-time feedback on whether conditions and air quality are optimal for outdoor cardio.</p>
-          <p>Family & School Run: Practical checks when heading out with children and family.</p>
+          <p>Runner &amp; Cyclist: Real-time feedback on whether conditions and air quality are optimal for outdoor cardio.</p>
+          <p>Family &amp; School Run: Practical checks when heading out with children and family.</p>
           <p>Sensitive Airways: Targeted alerts for asthma, allergy, and pollutant sensitivity.</p>
           <p>Open Windows: Quick guidance on whether bringing fresh outdoor air inside is a good idea.</p>
           <p>Replaces raw microgram density confusion with clear, graded context: Good, Fair, Moderate, and beyond.</p>
